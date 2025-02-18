@@ -41,7 +41,7 @@ Este proyecto utiliza un Arduino junto con un sensor de temperatura y humedad DH
 #Version 2
 ![P](v2.jpg)
 #Version 3
-![P](v3.mp4)
+![P](https://github.com/JairGaMa/dht22-y-LCD-V2/blob/main/v3.mp4)
 #Version 4
-![P](v4.mp4)
+![P](https://github.com/JairGaMa/dht22-y-LCD-V2/blob/main/v4.mp4)
 
